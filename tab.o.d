@@ -1,0 +1,1 @@
+tab.o: tab.c
